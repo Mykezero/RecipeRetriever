@@ -1,0 +1,12 @@
+_addon.author = 'ZeroLimits';
+_addon.name = 'LuaTesting';
+_addon.version = '1.0';
+
+-------------------------------------------------------------------------------
+-- func: load
+-- desc: First called when our addon is loaded. 
+-------------------------------------------------------------------------------
+
+ashita.register_event('load', function()
+    print( 'Our addon had load called!' );
+end );

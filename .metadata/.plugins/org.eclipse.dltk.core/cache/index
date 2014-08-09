@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="22" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610" timestamp="1407554341919" lastAccessTime="1407555271326">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1762796371/9.idx"/>
+  </entries>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/LuaXml.cdr" timestamp="1183412202000" lastAccessTime="1407555269779"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/LuaXml.png" timestamp="1183412380000" lastAccessTime="1407555269795"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/LuaXML_lib.c" timestamp="1370900098000" lastAccessTime="1407555269795"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/LuaXML_lib.dll" timestamp="1370900696000" lastAccessTime="1407555269795"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/LuaXML_lib.so" timestamp="1370900104000" lastAccessTime="1407555269795"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/Makefile" timestamp="1370900692000" lastAccessTime="1407555269795"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/readme.txt" timestamp="1370901024000" lastAccessTime="1407555269795"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src/LuaXML_130610/test.xml" timestamp="1370899682000" lastAccessTime="1407555269795"/>
+  <entries path="C:/Users/Mike/Documents/GitHub/lua-testing/lua-testing/src" timestamp="1407556518185" lastAccessTime="1407557479022">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2399851841/21.idx"/>
+  </entries>
+</cache:CacheIndex>

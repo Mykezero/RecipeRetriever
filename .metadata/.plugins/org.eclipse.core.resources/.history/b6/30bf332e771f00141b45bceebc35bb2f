@@ -1,0 +1,17 @@
+_addon = {}
+_addon.author = 'ZeroLimits';
+_addon.name = 'Testing';
+_addon.version = '1.0';
+
+io.open(Recipes.xml, r);
+
+-------------------------------------------------------------------------------
+-- func: load
+-- desc: First called when our addon is loaded. 
+-------------------------------------------------------------------------------
+
+
+--ashita.register_event('load', function()
+--    print( 'Our addon had load called!' );
+--end );
+--
