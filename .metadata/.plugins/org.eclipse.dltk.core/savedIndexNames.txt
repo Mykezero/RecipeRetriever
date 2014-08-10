@@ -1,1 +1,0 @@
-C:\Users\Mike\Documents\GitHub\lua-testing\.metadata\.plugins\org.eclipse.dltk.core\120238045.index
