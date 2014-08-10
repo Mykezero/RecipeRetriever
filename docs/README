@@ -1,0 +1,23 @@
+User Manual:
+
+To install the addon:
+1. Open the directory in which ashita is located.
+2. Open the addons folder.
+3. Place the RecipeRetriever folder in the addon's directory.
+
+To load the addon type:
+/addon load reciperetriever
+
+To retrieve synthesis recipes by name use:
+	/recipe where name "NameOfSynth"
+
+To retrieve synthesis recipes by a material used in the synth use:
+	/recipe where material honey
+
+FAQ:
+
+Q: Does this program retrieve information from the internet?
+A: No. It reads the recipes.json file in the resource directory for retrieval. 
+
+Q: How come some synthesis recipes are not included?
+A: The program I use to obtain the data has flaws in it where it does not retrieve all synthesis recipes. 
