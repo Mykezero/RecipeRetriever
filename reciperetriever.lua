@@ -234,8 +234,6 @@ function printRecipes(recipeTable)
 	end
 end
 
-function
-
 function getRecipeByTableIndex(id)
 		-- Convert index to a number from a string.
 	local x = tonumber(id)
