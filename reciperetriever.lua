@@ -144,6 +144,7 @@ ashita.register_event('command',
 
 				if(args[4] == "level") then
 					getRecipeByLevel(args[3], args[5])
+					return true
 				end
 			end
 		end
